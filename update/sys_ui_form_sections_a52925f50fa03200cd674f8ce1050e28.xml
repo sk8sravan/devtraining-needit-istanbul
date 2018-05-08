@@ -66,6 +66,7 @@
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
+            <x_198327_u_request_what_type_of_it_service_do_you_need/>
         </sys_ui_form>
     </sys_ui_form_sections>
 </record_update>
